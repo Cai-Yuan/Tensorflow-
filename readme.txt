@@ -1,0 +1,1 @@
+Implementation of linear.py includes almost all the commands commonly used in TensorFlow. And tested the function and output effect of each command. This is the basis for learning deep neural networks. Dec/24/2018,  Happy Christmas Eve
